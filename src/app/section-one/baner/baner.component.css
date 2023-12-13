@@ -1,0 +1,33 @@
+.container-baner{
+ height: 350px;
+ display:flex;
+ justify-content: center;
+ flex-direction: column;
+ color: white;
+ text-align: center;
+ background-image: url("../image/fpdl.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+h1{
+  color: white;
+
+}
+.inputbox{
+ width: 300px;
+ height: 30px;
+
+}
+
+button{
+  margin: 2px;
+  border-radius: 10px;
+  border: 0;
+
+}
+input{
+  border: none;
+}
+.box-end{
+  text-align: center;
+}
